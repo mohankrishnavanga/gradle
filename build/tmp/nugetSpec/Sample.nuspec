@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <title>sample</title>
+    <authors>TheLoneRanger</authors>
+    <id>test-sample</id>
+    <version>4.8.1</version>
+    <description>Sample</description>
+  </metadata>
+  <files>
+    <file src="D:\DevOps\Workspace\Gradle\Sample\src\myfile.txt" target="tools"/>
+  </files>
+</package>
